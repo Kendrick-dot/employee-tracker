@@ -1,0 +1,23 @@
+{
+  "name": "employee",
+  "version": "1.0.0",
+  "description": "Employee Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kendrick",
+  "license": "ISC",
+  "dependencies": {
+    "@mysql.js/mysql": "^0.8.0",
+    "columnify": "^1.5.4",
+    "console.table": "^0.10.0",
+    "employee-management-lib": "0.0.2",
+    "inquirer": "^7.3.3",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.10.0",
+    "promise-mysql": "^4.1.3",
+    "schema": "^0.2.1"
+  }
+}
